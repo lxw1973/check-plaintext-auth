@@ -50,6 +50,12 @@ sudo ./check-plaintext-auth.sh --nginx
 | HTTP 301 到 HTTPS | ok |
 | 仅 HTTPS 监听 | ok |
 
+## 下载
+
+- 仓库：https://github.com/lxw1973/check-plaintext-auth
+- 源码打包（含 zip 资料包）：https://github.com/lxw1973/check-plaintext-auth/archive/refs/tags/v1.0.0.zip
+- 版本：v1.0.0
+
 ## 资料包
 
 - [自查清单（10 条）](docs/checklist.md)
