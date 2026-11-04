@@ -56,6 +56,14 @@ sudo ./check-plaintext-auth.sh --nginx
 - 源码打包（含 zip 资料包）：https://github.com/lxw1973/check-plaintext-auth/archive/refs/tags/v1.0.0.zip
 - 版本：v1.0.0
 
+## 分主题清单（PDF）
+
+| 清单 | 文件 |
+|---|---|
+| Burp 抓不到包 · 6 步排查 | [PDF](docs/resources/burp-troubleshooting-checklist.pdf) |
+| nginx 鉴权/权限排查 | [PDF](docs/resources/nginx-auth-permission-checklist.pdf) |
+| launchd 排查小抄 + plist 模板 | [PDF](docs/resources/launchd-troubleshooting-cheatsheet.pdf) |
+
 ## 资料包
 
 - [自查清单（10 条）](docs/checklist.md)
